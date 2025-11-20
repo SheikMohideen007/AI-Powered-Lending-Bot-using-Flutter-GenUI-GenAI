@@ -1,16 +1,22 @@
-# sample_bot
+AI-Powered Lending Bot using Flutter, GenUI, and Gemini 2.5 Pro
 
-A new Flutter project.
+This project is an AI-powered Lending Chatbot built entirely using:
 
-## Getting Started
+Flutter (UI Framework)
 
-This project is a starting point for a Flutter application.
+GenUI (Generative UI for Flutter)
 
-A few resources to get you started if this is your first Flutter project:
+Google Gemini 2.5 Pro via Firebase AI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Custom UI Catalog Widgets (bureau card, customer card, loan details etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The bot interacts with users and dynamically renders UI components based on AI instructions using A2UI tool calls.
+
+This is a real-world demo of building a smart lending assistant using Generative UI + LLMs for:
+
+✅ CIF ID Verification
+✅ Customer KYC Details
+✅ Loan Product Selection
+✅ Bureau Score Simulation
+✅ Loan Slider with Local EMI Calculation
+✅ Loan Application Submission
