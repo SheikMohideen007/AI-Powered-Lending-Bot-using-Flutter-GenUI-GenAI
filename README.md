@@ -1,22 +1,45 @@
-AI-Powered Lending Bot using Flutter, GenUI, and Gemini 2.5 Pro
+# 🚀 AI-Powered Lending Bot using Flutter, GenUI & Gemini 2.5 Pro
 
-This project is an AI-powered Lending Chatbot built entirely using:
+This project is an **AI-driven Lending Assistant** built using **Flutter**, **GenUI (Generative UI)**, and **Google Gemini 2.5 Pro via Firebase AI**.  
+The bot dynamically renders UI components using **A2UI tool calls** and guides the user through a complete loan application flow.
 
-Flutter (UI Framework)
+---
 
-GenUI (Generative UI for Flutter)
+## 🎯 Features
 
-Google Gemini 2.5 Pro via Firebase AI
+- 🧠 AI-powered lending conversation
+- CIF ID validation
+- Customer details preview
+- Loan product selection (Home, Car, Personal)
+- Bureau score simulation
+- Adjustable loan parameters using sliders
+- Loan application submission
+- Fully dynamic GenUI surfaces
+- Firebase AI + Gemini 2.5 Integrated
 
-Custom UI Catalog Widgets (bureau card, customer card, loan details etc.)
+---
 
-The bot interacts with users and dynamically renders UI components based on AI instructions using A2UI tool calls.
+## 🧰 Tech Stack
 
-This is a real-world demo of building a smart lending assistant using Generative UI + LLMs for:
+### **Framework**
 
-✅ CIF ID Verification
-✅ Customer KYC Details
-✅ Loan Product Selection
-✅ Bureau Score Simulation
-✅ Loan Slider with Local EMI Calculation
-✅ Loan Application Submission
+- Flutter 3.22+
+- Dart 3.x
+
+### **AI / GenUI**
+
+- GenUI 0.5.1
+- GenUI Firebase AI Adapter
+- Google Gemini 2.5 Pro or Flash (via Firebase AI)
+
+### **Dependencies (pubspec.yaml)**
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  genui: ^0.5.1
+  genui_firebase_ai: ^0.5.1
+  firebase_ai: ^0.1.0
+  json_schema_builder: ^0.1.3
+```
