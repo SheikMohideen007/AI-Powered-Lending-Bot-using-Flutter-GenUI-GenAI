@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570378478500",
+    "project_id": "lendingbot-9a852",
+    "storage_bucket": "lendingbot-9a852.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570378478500:android:43af67a299e5b72ea75731",
+        "android_client_info": {
+          "package_name": "com.example.sample_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf9s8YYAN9jMuEviYcHtY9z23hPnQVMO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
