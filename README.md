@@ -73,6 +73,7 @@ void main() async {
 
 ## 📁 Folder Structure
 
+``` 
 lib/
 │
 ├── widgets/
@@ -92,7 +93,7 @@ lib/
 │
 ├── main.dart
 └── home.dart (GenUI setup + Conversation Engine)
-
+```
 ## 🛠 Installation
 
 ### 1. Clone the repository
